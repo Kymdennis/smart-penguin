@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28107667379",
+    "project_id": "hyiplab-b4a93",
+    "storage_bucket": "hyiplab-b4a93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28107667379:android:7d13b7a182ef0522ef3dc6",
+        "android_client_info": {
+          "package_name": "dev.vlab.hyiplab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXMU4WNPK5o-6hH5FQqB41iQyeGmG7Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
